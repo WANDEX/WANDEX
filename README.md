@@ -2,9 +2,9 @@
 <table style="width:100%;border:0!important;">
   <tr style="width:100%;border:0!important;">
     <td align="middle" style="width:60%;border:0!important;">
-      <img src="https://toru.kio.dev/api/v1/NERV1N?theme=dark&border_radius=5&cover_radius=0&border_width=0" alt="Last.fm Activity" />
+      <img src="https://toru.kio.dev/api/v1/NERV1N?theme=dark&border_radius=5&cover_radius=0&border_width=0" alt="" />
       <br clear="both">
-      <p align="left" style="padding-left:24px;">Hi, take care 🌏 mutual follow 🫂 the rest, bb 👋
+      <p align="left" style="padding-left:24px;">thank you ⭐ take care 🌏 mutual follow 🫂 the rest 👋
         <img align="right" style="padding-right:24px;" src="https://visitor-badge.laobi.icu/badge?page_id=WANDEX.WANDEX&left_color=black&right_color=darkred&left_text=V" />
       </p>
     </td>
